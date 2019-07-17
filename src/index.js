@@ -8,7 +8,7 @@ let developers = [
   { name: "Yosias", description: "Graduated from CSUSB with Bachelor of Science in Computer Engineering", icon: "https://media.worldnomads.com/Explore/south-east-asia/raja-ampat-istock-lead.jpg" },
   { name: "Hector", description: "I'm a cyber security student at CSUSB, I'm a part time barber and I have horse whos name is Hercules and a cat whos name is Tamale.", icon: "https://i.pinimg.com/originals/ac/fb/df/acfbdfa558edf7a0e5e57c1a93061e64.jpg" }, 
   { name: "Ekay", description: "I'm a vibe Curator ", icon: "http://hubwav.com/wp-content/uploads/2017/10/Screen-Shot-2017-10-19-at-7.19.19-PM.png" },
-  { name: "Jen", description: "I work customer service, working my way to be a programmer, and love bunnies", icon: "https://www.protexinvet.com/userfiles/image/cute-2500929_1920_(1).jpg" }
+  
 ];
 
 function UserList() {
