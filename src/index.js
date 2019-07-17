@@ -16,7 +16,7 @@ function UserList() {
         {e.name}
         <br />
         {e.description}
-        <img alt="userIcon" src={e.icon} height=100/>
+        <img alt="userIcon" src={e.icon} height={100}/>
         <br /> <br />
       </div>
     );
