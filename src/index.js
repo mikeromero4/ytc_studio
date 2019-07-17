@@ -5,7 +5,7 @@ import "./styles.css";
 
 let developers = [
   { name: "Michael", description: "qrqwerwer", icon: "" },
-  { name: "Yosias", description: "", icon: "" },
+  { name: "Yosias", description: "Graduated from CSUSB with Bachelor of Science in Computer Engineering", icon: "" },
   { name: "Hector", description: "", icon: "" }
 ];
 
