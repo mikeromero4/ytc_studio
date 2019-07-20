@@ -2,7 +2,7 @@ let developerDescriptions = [
   {
     name: "Michael",
     description:
-      "I'm a fullstack developer specializing in React App development and serverless architectures with AWS",
+      "I'm a fullstack developer specializing in single page app development with React.js",
     icon:
       "http://cdn.shopify.com/s/files/1/1869/0319/products/artwork_2FiracAsA01W6FkLreQdfg-UWJxUdtuT44fzYniNfuj-IVU8IRSgOvqJk1FNGXA9-color-none_1024x1024.png?v=1532976542"
   },
