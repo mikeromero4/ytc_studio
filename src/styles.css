@@ -1,7 +1,52 @@
-.App {
+body {
   font-family: sans-serif;
-  text-align: center;
+  margin: 0;
 }
-body{
-  background: green;
+body,
+html,
+#root,
+#container {
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+.top-box {
+  padding: 50px;
+  font-size: 30px;
+}
+.user-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: flex-start;
+  align-content: center;
+  align-items: stretch;
+}
+.card-content {
+  flex-grow: 1;
+  overflow-y: auto;
+}
+.card {
+  margin: 20px 0;
+  height: 500px;
+  display: flex;
+  justify-content: space-evenly;
+  min-width: 200px;
+  max-width: 400px;
+  flex-shrink: 1;
+  flex-basis: 300px;
+}
+#user-page {
+  height: 100%;
+  background: blue;
+}
+#container {
+  background: white;
+}
+#page-content {
+  margin: 0 100px;
+  background: grey;
+  flex-grow: 1;
 }
