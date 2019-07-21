@@ -29,7 +29,7 @@ let developerDescriptions = [
   {
     name: "Jennifer",
     description: "Description goes here",
-    icon: "https://waitbutwhy.com/wp-content/uploads/2013/08/FEATURE9.png"
+    icon: "https://previews.123rf.com/images/briang77/briang771512/briang77151200478/49536489-cartoon-bunny-rabbit-vector.jpg"
   },
   {
     name: "Megan",
