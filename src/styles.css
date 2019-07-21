@@ -50,3 +50,8 @@ html,
   background: grey;
   flex-grow: 1;
 }
+#page-footer{
+  padding:30px;
+  background:black;
+  color:white;
+}
