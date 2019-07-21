@@ -28,8 +28,8 @@ let developerDescriptions = [
   },
   {
     name: "Jennifer",
-    description: "Description goes here",
-    icon: "https://previews.123rf.com/images/briang77/briang771512/briang77151200478/49536489-cartoon-bunny-rabbit-vector.jpg"
+    description: "I work customer service, working my way to be a programmer, and love bunnies",
+    icon: "https://www.protexinvet.com/userfiles/image/cute-2500929_1920_(1).jpg"
   },
   {
     name: "Megan",
