@@ -7,7 +7,9 @@ function User() {
       <br />
       My name is Hector and i love my horse and cat
       <br />
-      I can't wait to go camping
+      Currently on my way to yellowstone
+      <br />
+     
     </div>
   );
 }
